@@ -1,0 +1,17 @@
+INDEX VERSION 1.3+C:\xampp\htdocs\java\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4149313392.index
+3376603417.index
+3653118366.index
+3411597389.index
+3809078458.index
+1715368895.index
+2922762121.index
+884799565.index
+3042338056.index
+2372231022.index
+2212647192.index
+1000393279.index
+1271852980.index
+4226072495.index
+1620873567.index
+1153842373.index
