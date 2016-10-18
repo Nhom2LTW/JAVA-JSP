@@ -1,5 +1,5 @@
 body{
-	background: url(img/body-brackground.jpeg);
+	background: url(../img/body-brackground.jpeg);
 }
 .show-grid {
 	background-color: #eee;
@@ -9,7 +9,7 @@ body{
 }
 
 #main{
-	background: url(img/main-brackground.jpg);
+	background: url(../img/main-brackground.jpg);
 	position: relative;
 	top: 10px;
 	max-width: 1024px;
