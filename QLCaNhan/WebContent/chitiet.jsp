@@ -20,16 +20,7 @@
 	<script type="text/javascript" src="bootstrap/js.js"></script>
 	<!-- ajax -->
 	<script type="text/javascript" src="bootstrap/js/jquery.min.js"></script>
-	<script>
-		$(document).ready(function(){
-		    $("#").click(function(){
-		        $("#container").show();
-		    });
-		    $("#").click(function(){
-		        $("#container").hide();
-		    });
-		});
-</script>
+	
 </head>
 <body>
 <div class="container">
