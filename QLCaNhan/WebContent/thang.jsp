@@ -114,11 +114,11 @@
 					</thead>
 					<tbody>
 						<tr>
-							<td class="month">
+							<td class="month" onclick="location.href='taosukien.jsp'">
 								<div class="zindexmonth">1</div>
 								<div class="zindexmonth2"></div>
 							</td>
-							<td class="month">
+							<td class="month" onclick="location.href='taosukien.jsp'">
 								<div class="zindexmonth">2</div>
 								<div class="zindexmonth2"></div>
 							</td>
